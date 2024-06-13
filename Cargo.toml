@@ -1,0 +1,27 @@
+[package]
+name = "openunit"
+version = "0.1.1"
+description = "An open-source unit converter writted in Rust"
+categories = ["math"]
+keywords = [
+    "unit",
+    "converter",
+    "math",
+    "area",
+    "frequency",
+    "length",
+    "mass",
+    "speed",
+    "storage",
+    "temp",
+    "tempature",
+    "time",
+    "pressure",
+    "light",
+    "electricity",
+    "angle",
+]
+license = "GPL-3.0"
+edition = "2021"
+
+[dependencies]
