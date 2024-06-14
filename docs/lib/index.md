@@ -60,7 +60,7 @@ Here's an in-depth breakdown of the functions available in each unit category, a
 
 ## Additional Resources
 
-For more information about specific functions and recent updates, please consult our [CHANGELOG](./CHANGELOG.md).
+For more information about specific functions and recent updates, please consult our [CHANGELOG](ttps://github.com/kadircelkx/openunit/blob/stable/CHANGELOG.md).
 
 ## Reporting Issues and Contributions
 
