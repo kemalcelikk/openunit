@@ -10,13 +10,18 @@ The source code for these functions is implemented in **Rust** and packaged as a
 
 ## Unit Categories
 
-1. Area
-2. Frequency
-3. Length
-4. Mass
-5. Speed
-6. Storage
-7. Temperature
+1. Angle
+2. Area
+3. Electricity
+4. Frequency
+5. Length
+6. Light
+7. Mass
+8. Pressure
+9. Speed
+10. Storage
+11. Temperature
+12. Time
 
 ## Detailed Breakdown
 
