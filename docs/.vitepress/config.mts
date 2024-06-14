@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "OpenUnit",
+  base: '/openunit/',
   description: "OpenUnit is a collection of unit converter functions maintained by open-source enthusiasts, designed to facilitate easy conversion between various units of measurement.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
