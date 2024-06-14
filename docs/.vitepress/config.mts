@@ -29,7 +29,7 @@ export default defineConfig({
           { text: 'Pressure', link: '/lib/pressure' },
           { text: 'Speed', link: '/lib/speed' },
           { text: 'Storage', link: '/lib/storage' },
-          { text: 'Tempature', link: '/lib/tempature' },
+          { text: 'Temperature', link: '/lib/temperature' },
           { text: 'Time', link: '/lib/time' },
         ]
       },
