@@ -16,7 +16,7 @@ hero:
 features:
   - title: Versatile
     icon: 💼
-    details: "OpenUnit offers you a wide array of unit conversion options with 171 functions across 12 different categories."
+    details: "OpenUnit offers you a wide array of unit conversion options with 177 functions across 12 different categories."
   - title: User-Friendly
     icon: 🚀
     details: "With its great DX and swift operation, OpenUnit simplifies unit conversion tasks, making them effortless and efficient."

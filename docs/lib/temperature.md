@@ -27,3 +27,27 @@ Converts Celsius to Kelvin.
 ## `fahrenheit_to_kelvin(f: f64) -> usize`
 
 Converts Fahrenheit to Kelvin.
+
+## `fahrenheit_to_rankine(f: f64) -> f64`
+
+Converts Fahrenheit to Rankine using the formula: `R = F + 459.67`.
+
+## `rankine_to_fahrenheit(r: f64) -> f64`
+
+Converts Rankine to Fahrenheit using the formula: `F = R - 459.67`.
+
+## `celsius_to_rankine(c: f64) -> f64`
+
+Converts Celsius to Rankine using the formula: `R = (C + 273.15) * 9/5`.
+
+## `rankine_to_celsius(r: f64) -> f64`
+
+Converts Rankine to Celsius using the formula: `C = (R - 491.67) * 5/9`.
+
+## `kelvin_to_rankine(k: f64) -> f64`
+
+Converts Kelvin to Rankine using the formula: `R = K * 9/5`.
+
+## `rankine_to_kelvin(r: f64) -> f64`
+
+Converts Rankine to Kelvin using the formula: `K = R * 5/9`.

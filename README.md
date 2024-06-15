@@ -4,7 +4,7 @@ OpenUnit is a collection of unit converter functions maintained by open-source e
 
 ## Overview
 
-In this release, we're proud to present **12** different unit categories, each comprising a plethora of conversion functions. Currently, there are **171** functions available, and we're continuously expanding our library to cover even more units over time.
+In this release, we're proud to present **12** different unit categories, each comprising a plethora of conversion functions. Currently, there are **177** functions available, and we're continuously expanding our library to cover even more units over time.
 
 The source code for these functions is implemented in **Rust** and packaged as a **Crate** for seamless integration into your projects.
 
