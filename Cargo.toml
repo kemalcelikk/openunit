@@ -1,6 +1,6 @@
 [package]
 name = "openunit"
-version = "0.1.1"
+version = "0.1.2"
 description = "An open-source unit converter writted in Rust"
 categories = ["math"]
 keywords = [

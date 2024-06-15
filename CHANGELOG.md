@@ -4,6 +4,12 @@ All notable changes to the OpenUnit project will be documented in this file.
 
 The format follows the guidelines of [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and the project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.1.2] - 2024-06-15
+
+### Added
+
+- **Temperature**: Added 6 more functions for temperature conversions.
+
 ## [0.1.1] - 2024-06-13
 
 ### Added
@@ -26,3 +32,6 @@ The format follows the guidelines of [Keep a Changelog](https://keepachangelog.c
 - **Storage**: Added a category with 11 functions for storage conversions.
 - **Temperature**: Included a category with 6 functions for temperature conversions.
 
+[0.1.2]: https://github.com/kemalcelikk/openunit/compare/v0.1.1...v0.1.2
+[0.1.1]: *No Link*
+[0.0.1]: *No Link*

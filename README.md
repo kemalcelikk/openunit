@@ -39,7 +39,7 @@ Here's a detailed breakdown of the functions available in each unit category, as
 | Pressure     | 14                  |
 | Speed        | 14                  |
 | Storage      | 11                  |
-| Tempature    |  6                  |
+| Tempature    | 12                  |
 | Time         | 24                  |
 
 For more information about specific functions and recent updates, please consult our [CHANGELOG](./CHANGELOG.md).
